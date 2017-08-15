@@ -1,0 +1,5 @@
+a: b
+b: c
+touch c
+make a
+make a

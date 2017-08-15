@@ -1,0 +1,11 @@
+v1020-wn-51-33:2 Chester$ cat t19.in
+a: b
+b: c
+touch c
+touch c
+make b 
+make b
+make b
+make b
+make b
+make b
